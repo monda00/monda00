@@ -72,4 +72,8 @@
 ### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.jsをアンインストールして再インストール](https://amateur-engineer-blog.com/uninstall-and-reinstall-nodejs/?utm_source=rss&utm_medium=rss&utm_campaign=uninstall-and-reinstall-nodejs)
+- [【kubectl】kubectl-pod-inspectでPodの情報を取得](https://amateur-engineer-blog.com/kubectl-pod-inspect/?utm_source=rss&utm_medium=rss&utm_campaign=kubectl-pod-inspect)
+- [【VSCode】vim拡張が重い場合の対策](https://amateur-engineer-blog.com/speed-up-vscode-vim-extension/?utm_source=rss&utm_medium=rss&utm_campaign=speed-up-vscode-vim-extension)
+- [【Alfred】VSCodeをホットキーで表示/非表示](https://amateur-engineer-blog.com/vscode-show-hide-hotkey-with-alfred/?utm_source=rss&utm_medium=rss&utm_campaign=vscode-show-hide-hotkey-with-alfred)
 <!-- BLOG-POST-LIST:END -->
