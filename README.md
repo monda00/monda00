@@ -59,6 +59,10 @@
   <a href="https://github.com/monda00/aa-generator-app">
     <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=monda00&repo=aa-generator-app&theme=radical" />
   </a>
+  <br>
+  <a href="https://github.com/monda00/next-app-router-mdx-blog">
+    <img height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=monda00&repo=aa-generator-app&theme=radical" />
+  </a>
 </p>
 
 ### Trophy
